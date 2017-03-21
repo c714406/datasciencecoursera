@@ -22,6 +22,7 @@ Action
     --get-colorbool       find the color setting: slot [stdout-is-tty]
 　
 Type
+
     --bool                value is "true" or "false"
     --int                 value is decimal number
     --bool-or-int         value is --bool or --int
